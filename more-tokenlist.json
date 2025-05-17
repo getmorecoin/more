@@ -1,0 +1,19 @@
+{
+  "name": "MORE Token List",
+  "timestamp": "2025-05-17T23:45:14.794545Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x305de070488c8469dfac957226c9c900c4bfba22",
+      "name": "MORE",
+      "symbol": "MORE",
+      "decimals": 18,
+      "logoURI": "https://more-public-assets.s3.us-west-1.amazonaws.com/MORE-logo.png"
+    }
+  ]
+}
