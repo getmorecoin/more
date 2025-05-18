@@ -14,6 +14,14 @@ Since 2017, MORE has been about utility and access. MORE is a membership token a
 
 This repository hosts the [Token List JSON](https://tokenlists.org) to enable wallet and DEX support across the Ethereum ecosystem.
 
+## Token Standard**: ERC-20
+
+- **Chain**: Ethereum Mainnet (`chainId: 1`)
+- **Symbol**: `MORE`
+- **Decimals**: `18`
+- **Contract Address**:  
+0x305de070488c8469dfac957226c9c900c4bfba22
+
 ## Contact
 
 📧 contact@getmore.vegas 
